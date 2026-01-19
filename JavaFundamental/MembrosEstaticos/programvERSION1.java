@@ -1,5 +1,5 @@
 package MembrosEstaticos;
-import java.util.*;
+import java.util.*;  
 
 // VERSÃO 1 
 public class programvERSION1 {
